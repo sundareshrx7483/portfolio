@@ -122,14 +122,14 @@ const projects = [
       "SK Clothies is a modern and stylish clothing website designed to provide users with an intuitive and seamless shopping experience. Built using cutting-edge technologies such as React, Flowbite, Tailwind CSS, and Material-UI, SK Clothie combines performance, aesthetics, and functionality to deliver a visually stunning and user-friendly platform.",
     image: SkClothimg,
   },
-  {
-    name: `Ata'a`,
-    link: "https://ibrahimhiarea.github.io/Ataa-Dashboard/",
-    github: "https://github.com/IbrahimHiarea/Ataa-Dashboard",
-    description:
-      "Ataa is a web application built with React for managing and organizing the operations of a charity organization. The application includes a landing page that provides an overview of the charity's mission and goals. Staff members of the charity can log in to the main dashboard, which allows them to manage and control the projects, employees, and beneficiaries associated with the charity. Additionally, there is a section dedicated to viewing the total budget of the charity, as well as the budget allocated to each individual project.",
-    image: Ataa,
-  },
+  // {
+  //   name: `Ata'a`,
+  //   link: "https://ibrahimhiarea.github.io/Ataa-Dashboard/",
+  //   github: "https://github.com/IbrahimHiarea/Ataa-Dashboard",
+  //   description:
+  //     "Ataa is a web application built with React for managing and organizing the operations of a charity organization. The application includes a landing page that provides an overview of the charity's mission and goals. Staff members of the charity can log in to the main dashboard, which allows them to manage and control the projects, employees, and beneficiaries associated with the charity. Additionally, there is a section dedicated to viewing the total budget of the charity, as well as the budget allocated to each individual project.",
+  //   image: Ataa,
+  // },
 
 ];
 
