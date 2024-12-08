@@ -33,11 +33,8 @@ import { SiTypescript, SiRecoil, SiReactquery } from "react-icons/si";
 
 //import images
 import Ataa from "../assets/images/Ataa.png";
-import Elzero from "../assets/images/Elzero.png";
-import Kasper from "../assets/images/Kasper.png";
-import Leon from "../assets/images/Leon.png";
-import SokoNumber from "../assets/images/SokoNumber.png";
-import GlobalShare from "../assets/images/GlobalShare.png";
+
+import SkClothimg from "../assets/images/sk.jpg";
 
 // import style
 import style from "./App.module.css";
@@ -118,12 +115,12 @@ const skills = [
 
 const projects = [
   {
-    name: "Skclothies",
+    name: "SK Clothies",
     link: "https://skclothie.vercel.app/",
     github: "https://github.com/sundareshrx7483/SK-CLOTHY",
     description:
-      "The Global Share ERP System is an innovative web-based application designed to streamline volunteer recruitment, management, and reward systems. It incorporates task management, recruitment, and gamification features to enhance employee engagement, promote effective communication, and drive organizational excellence.",
-    image: GlobalShare,
+      "SK Clothies is a modern and stylish clothing website designed to provide users with an intuitive and seamless shopping experience. Built using cutting-edge technologies such as React, Flowbite, Tailwind CSS, and Material-UI, SK Clothie combines performance, aesthetics, and functionality to deliver a visually stunning and user-friendly platform.",
+    image: SkClothimg,
   },
   {
     name: `Ata'a`,
